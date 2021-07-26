@@ -2,5 +2,5 @@
 
 ### Imagem
 ```
-docker push leandrojbraga/fullcycle-docker-desafiogo:tagname
+docker pull leandrojbraga/fullcycle-docker-desafiogo:latest
 ```
